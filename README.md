@@ -195,6 +195,3 @@ Feedstock Maintainers
 * [@bollwyvl](https://github.com/bollwyvl/)
 * [@sneakers-the-rat](https://github.com/sneakers-the-rat/)
 
-
-<!-- dummy commit to enable rerendering -->
-
